@@ -26,7 +26,7 @@ const Sidebar = () => {
     };
 
     return (
-        <div className="flex ">
+        <div className="flex mt-20 ">
             {/* Sidebar */}
             <div className="w-64 p-6 h-fit">
 

@@ -9,7 +9,7 @@ function Navbar() {
 
     return (
         <div>
-           <header className="fixed top-0 left-0 w-full z-50 bg-white shadow-md">
+           <header className="fixed top-0 left-0 w-full z-50 bg-white ">
                 <div className="flex h-16 items-center justify-between px-4 md:px-6">
                     {/* Logo */}
                     <Link to="/shop/home" className="flex items-center gap-2">
