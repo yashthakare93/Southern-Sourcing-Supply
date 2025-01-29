@@ -57,7 +57,7 @@ function Banner() {
             ></div>
 
             {/* Banner content */}
-            <div className="relative flex items-center gap-3 flex-col justify-center pt-14 pb-7 min-h-[500px]">
+            <div className="relative flex items-center gap-3 flex-col justify-center pt-14 pb-7 min-h-[530px]">
                 {/* Company Name and Tagline */}
                 <h2 className="font-bold text-[52px] text-center text-white mb-2" style={{ fontFamily: 'cursive' }}>
                     Southern Sourcing Supply

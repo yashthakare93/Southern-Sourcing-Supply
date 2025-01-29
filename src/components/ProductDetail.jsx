@@ -139,7 +139,7 @@ const ProductDetail = () => {
             <button className="bg-blue-500 text-white font-medium py-2 px-4 rounded-lg shadow-md hover:bg-blue-600 transition duration-300 ease-in-out">
               <div className='flex gap-x-2'>  <Gift />
 
-                Buy Now</div>
+                Bid Now</div>
             </button>
             <button className="bg-blue-500 text-white font-medium py-2 px-4 rounded-lg shadow-md hover:bg-blue-600 transition duration-300 ease-in-out">
               <div className='flex gap-x-2'> <Phone />
